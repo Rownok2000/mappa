@@ -13,7 +13,7 @@ export class AppComponent {
   lng: number = 9.190766;
   ltcasa : number = 45.520435;
   lncasa : number = 9.170989;
-  latpalm: number = 45.580914;
+  latpalm: number = 45.506044;
   lngpalm: number = 9.197025;
   latsun: number = 45.503044;
   lngsun: number = 9.192909;
